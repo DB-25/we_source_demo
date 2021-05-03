@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430462026735",
+    "project_id": "wesourcedemo",
+    "storage_bucket": "wesourcedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430462026735:android:0d84511693eab2f0d26c1a",
+        "android_client_info": {
+          "package_name": "com.db25.we_source_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430462026735-ke0neqc0m323r54lpsvi6l4326tss5p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChbltKI2dvwM_nn8Bmo-4cNdUe-o6dE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430462026735-ke0neqc0m323r54lpsvi6l4326tss5p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
